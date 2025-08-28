@@ -22,7 +22,17 @@
   <img height=180 align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tulio-Bessa&theme=blueberry"/>
   <br>
   <br>
-  <img align="center" alt="teste" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tulio-Bessa&theme=blueberry" alt="GitHub Streak" /></a>"/>
+  <img align="center" alt="teste" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tulio-Bessa&theme=blueberry" alt="GitHub Streak" /></a>"
+</div>
+
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </div>
 
 
