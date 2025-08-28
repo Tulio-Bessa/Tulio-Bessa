@@ -36,6 +36,46 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </div>
 
+<br>
+<br>
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
+
+##
+
+<br>
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-194d45?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:dev.tuliobessa@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-194d45?style=for-the-badge&logo=instagram&logoColor=fff)](https://instagram.com/1tuliobessa)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-194d45?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/túlio-menezes-bessa-878070201)
+  
+</div>
+
+##
+
+<br>
+
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=30&c=2aa889&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+</div>
+
+<br>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=008080&section=footer"/>
+<img width="100%" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FTulio-Bessa&s=40&c=008080&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A&ta="/>
