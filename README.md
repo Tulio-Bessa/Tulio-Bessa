@@ -14,8 +14,8 @@
 
 <!-- 🔹 GitHub Stats Section -->
 <div align="center">
-  <img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tulio-Bessa&theme=blueberry" width="49%"/>
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tulio-Bessa&theme=blueberry&show_icons=true&hide_border=true&layout=compact" width="49%"/>
+  <img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tulio-Bessa&theme=blueberry" width="49%" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tulio-Bessa&theme=blueberry&show_icons=true&hide_border=true&layout=compact" width="49%" />
 </div>  
 
 <div align="center">
