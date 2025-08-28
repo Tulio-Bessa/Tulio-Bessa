@@ -4,7 +4,6 @@
 
 <div align="center">
   
-  <b>`プログラマ`</b>
   <samp>
       <br>
       Hi there! I'm <b>Túlio Bessa</b>
@@ -39,12 +38,7 @@
 <br>
 <br>
 
-<details align="center">  
-  <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-  </summary>
+<details align="center"> 
   
 <br>
 
