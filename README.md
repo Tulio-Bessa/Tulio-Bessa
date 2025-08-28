@@ -22,7 +22,7 @@
   <img height=180 align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tulio-Bessa&theme=blueberry"/>
   <br>
   <br>
-  <img align="center" alt="Top Language" src="<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Tulio-Bessa&theme=blueberry&hide_border=true&locale=pt" alt="GitHub Streak" /></a>"/>
+  <img align="center" alt="teste" src="https://github-readme-streak-stats.herokuapp.com?user=Tulio-Bessa&theme=blueberry&hide_border=true&locale=pt" alt="GitHub Streak" /></a>"/>
 </div>
 
 
