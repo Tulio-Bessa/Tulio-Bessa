@@ -1,5 +1,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=61DAFB&section=header"/>  
-
 <div align="center">  
   <samp> 
    Hi there! I'm <b>Túlio Bessa</b>
@@ -7,7 +6,8 @@
 </div>  
 
 <div align="center" width="100%"> 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=300&color=61DAFB&width=900&size=22&center=true&lines=I'm+a+student+of+Information+Systems+;Be+welcome!" alt="Typing SVG"/> 
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=4500&pause=300&color=61DAFB&width=900&size=22&center=true&lines=I'm+a+student+of+Information+Systems+;Be+welcome!" alt="Typing SVG"/> 
+
 </div>  
 
 ---
