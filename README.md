@@ -19,10 +19,11 @@
 
 <div align="center">
   <img height=180 align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tulio-Bessa&theme=blueberry"/>
+  
   <img height=180 align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tulio-Bessa&theme=blueberry"/>
   <br>
   <br>
-  <img align="center" alt="teste" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tulio-Bessa&theme=blueberry" alt="GitHub Streak" /></a>"
+  <img align="center" alt="teste" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tulio-Bessa&theme=blueberry" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center" style="display: inline_block"><br>
