@@ -53,7 +53,7 @@
 
 <!-- 🔹 Visit Counter -->
 <div align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FTulio-Bessa&s=40&c=61dafb&bg=00000000&no=2&ff=digi&tb=visitas%3A&ta=" alt="visits">
+  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FTulio-Bessa&s=40&c=61dafb&bg=00000000&no=2&ff=digi&tb=visits%3A&ta=" alt="visits">
 </div>  
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=61DAFB&section=footer"/>  
