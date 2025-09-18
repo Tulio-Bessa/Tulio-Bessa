@@ -13,10 +13,7 @@
 ---
 
 <!-- 🔹 GitHub Stats Section -->
-<div align="center">
-  <img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tulio-Bessa&theme=react" width="49%" />
- 
-</div>  
+
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tulio-Bessa&theme=react" width="98%"/>
